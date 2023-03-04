@@ -1,7 +1,7 @@
 ---
 title: 'Airbnb Blog'
 date: 2012-08-14
-permalink: /posts/airbnb_blog/
+<!-- permalink: /posts/airbnb_blog/ -->
 tags:
   - Data Analytics
   - Python
