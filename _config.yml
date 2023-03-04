@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nischay G Gowda"
-  avatar           : "profile.png"
+  avatar           : "no-user-profile-picture-hand-color.jpg"
   bio              : "Data Detective"
   location         : "Tempe, AZ"
   employer         :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Pheonix # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
